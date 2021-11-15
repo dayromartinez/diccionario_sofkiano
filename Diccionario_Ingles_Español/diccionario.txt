@@ -1,0 +1,13 @@
+hola: hello
+inglã©s: english
+espaã±ol: spanish
+amor: love
+desarrollo: development
+tiempo: time
+hola: hello
+inglã©s: english
+espaã±ol: spanish
+amor: love
+desarrollo: development
+tiempo: time
+espacio: space
